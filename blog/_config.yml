@@ -21,8 +21,9 @@
 title: "Lucas Morales' Blog"
 email: 
 description: "Un blog sobre mis proyectos y aprendizajes."
+domain: lucasagustinmoralesromero.github.io
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://lucasamoralesromero.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "lucasamoralesromero.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: morales_agustin
 github_username: LucasAMoralesRomero
 
